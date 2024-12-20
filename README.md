@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My developer journey began as a City Year Corps Member in LA, where a student’s question, “Why do I need Algebra?” inspired me to dive into coding. I told them, “So you can learn how to code,” and from that moment, I was hooked. After self-teaching and volunteering at Teens Exploring Technology, I joined Illinois Tech’s Global Leaders Program to further my passion for education and tech.
 
-With 5+ years of experience as a Software Engineer, I specialize in React, Next.js, and TypeScript, and have delivered solutions in Python, Java, and React Native. My interests include Web Performance and Product Engineering, particularly building things from scratch. Highlights include improving test coverage by 90% and winning a Hackathon for a major retailer.
+With 5+ years of experience as a Software Engineer, I specialize in React, Next.js, and TypeScript, and have delivered solutions in Python, Java, and React Native. My interests include Web Performance and Product Engineering, especially green field projects.
 
-I blend continuous learning, technical leadership, and mentorship in my work. I’ve mentored nearly 100 students and helped interns build the confidence to thrive in software engineering.
+My super power is asking not being afraid or ashamed to ask questions, leading to my team feeling confident that we've found the correct solution.
 
-#### 🚀 Words I Live By: “Will code for donuts” — but after working with great developers, “First-principles development always wins.”
+#### 🚀 Words I Live By: “Will code for donuts” — but after working with great developers, “First principles development always wins.”
 
 ### Languages & Tech:
 
